@@ -1,0 +1,4 @@
+token = "YOURTOKEN"
+secretkey = "YOURSECRETKEY" # For future use, botadmin can use it to authorize
+welcomemessage = "Добро пожаловать на канал ####. Просим ознакомится с правилами ... и написать ченить с #whois для регистрации. Но лучше сначала попробовать спамить ссылкой :) После #whois бот наказывать не будет"
+debug = 1
